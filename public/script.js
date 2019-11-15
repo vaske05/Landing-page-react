@@ -113,9 +113,6 @@ bodyOnClick = function(event) {
 
     };
 
-
-
-
    /* Initialize
     * ------------------------------------------------------ */
     (function clInit() {
